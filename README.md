@@ -7,3 +7,5 @@ Upon launching the app, the user is asked to describe the first member of their 
 When all information on the team member has been entered, the user is asked whether there are any more members they would like to add. If so, the user is asked the same questions about the new team member. If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html.
 
 Walkthrough video link here: https://youtu.be/262AfaAQuVc
+
+Link to deployed site here: https://petar85.github.io/old-friends-profile
